@@ -10,5 +10,5 @@ var outerFunction = function() {
   innerFunction();
 }
 
-outerFunction(); //Should print 'valerie'
+outerFunction(); //Update murderer varable
 console.log('the murderer is ', murderer); //Should be rick
