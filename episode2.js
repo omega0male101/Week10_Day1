@@ -6,5 +6,3 @@ var result = function() {
 };
 
 console.log(result()); //Will print out a value of '3'
-
-console.log(score)
