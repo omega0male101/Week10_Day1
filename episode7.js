@@ -11,12 +11,13 @@ var viewState = function() {
    superposition = 'Both States';
 
   var possibleState = function() {
-     superposition = '0';
-     var superposition = "1"
-
+     var superposition = '0';
+     
     var otherState = function() {
       superposition = '1 or 0';
     }
+
+    superposition = "1"
     otherState();
   }
   possibleState();
